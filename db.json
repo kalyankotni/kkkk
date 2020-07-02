@@ -1,0 +1,32 @@
+{
+  "customers": [
+    {
+      "name": "Mary Johnson",
+      "phone": "808937482734",
+      "address": "893 Main Voulevard",
+      "membership": "Pro",
+      "id": 2
+    },
+    {
+      "name": "kotni",
+      "phone": "8379567564634",
+      "address": "hyd",
+      "membership": "Platinum",
+      "id": 3
+    },
+    {
+      "name": "wwedsddsd",
+      "phone": "e333232",
+      "address": "dsdfd",
+      "membership": "Basic",
+      "id": 4
+    },
+    {
+      "name": null,
+      "phone": null,
+      "address": null,
+      "membership": null,
+      "id": 5
+    }
+  ]
+}
